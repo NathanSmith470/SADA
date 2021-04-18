@@ -4,3 +4,4 @@ This is the successor to SACAD. SADA stands for "Smith Airfoil Design Applicatio
 Installation:
 In order to run this application you must install the Mono framework on your computer.
 If you're using macOS or Linux, good luck.
+The source code is available as well as the project file, which can be opened in Monodevelop (possibly).
